@@ -1,4 +1,6 @@
 # Retail Sales Analytics Dashboard
+DASHBOARD PREVIEW
+![Dashboard](Screenshot 2026-06-17 030533.png)
 
 **September 2025**
 
