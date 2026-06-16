@@ -1,8 +1,11 @@
 # Retail Sales Analytics Dashboard
 DASHBOARD PREVIEW
+https://1drv.ms/x/c/ca8f799fd862bf37/IQDljFyC8ykfQKjq-weMdUTMAY12SoDhK0eKVlhXZzMtddA?e=agoMtB
+
 ![Dashboard](images/dashboard)
 
 **September 2025**
+
 
 An interactive Excel dashboard developed to analyze retail sales performance and customer purchasing behavior. This project was built to strengthen data analysis and visualization skills using Microsoft Excel.
 
@@ -41,3 +44,5 @@ An interactive Excel dashboard developed to analyze retail sales performance and
 ## Project Outcome
 
 Created a dynamic dashboard that enables users to explore sales performance across regions, customer demographics, and sales channels through interactive visualizations.
+
+https://1drv.ms/x/c/ca8f799fd862bf37/IQDljFyC8ykfQKjq-weMdUTMAY12SoDhK0eKVlhXZzMtddA?e=agoMtB
