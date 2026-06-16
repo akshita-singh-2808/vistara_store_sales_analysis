@@ -1,6 +1,6 @@
 # Retail Sales Analytics Dashboard
 DASHBOARD PREVIEW
-https://1drv.ms/x/c/ca8f799fd862bf37/IQDljFyC8ykfQKjq-weMdUTMAY12SoDhK0eKVlhXZzMtddA?e=agoMtB
+
 
 ![Dashboard](images/dashboard)
 
